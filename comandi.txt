@@ -4,6 +4,6 @@ git add NOME FILE
 
 git stage NOME FILE
 
-git commit -n "DESCRIZIONE DEL COMMIT"
+git commit -m "DESCRIZIONE DEL COMMIT"
 
 git push 
